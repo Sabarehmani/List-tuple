@@ -12,3 +12,6 @@ print(student)
 
 marks = [45, 36, 12.3, 87, 42, 90]
 print(marks[1:5])
+
+marks = [45, 36, 12.3, 87, 42, 90]
+print(marks[-3:-1])
