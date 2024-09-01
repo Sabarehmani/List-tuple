@@ -8,3 +8,7 @@ print(type(tup))
 
 tup = (1, 2, 3, 4)
 print(tup[1:3])
+
+
+tup = (1, 2, 3, 4)
+print(tup[-3:-1])
